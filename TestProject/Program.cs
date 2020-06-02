@@ -11,6 +11,8 @@ namespace TestProject
             Console.WriteLine("Commit new branch devJoseph - Joseph ");
             Console.WriteLine("Commit new changes - Joseph ");
 
+            Console.WriteLine("Test changes pull - Joseph ");
+
         }
     }
 }

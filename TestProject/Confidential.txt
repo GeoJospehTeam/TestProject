@@ -7,5 +7,6 @@ Project 401 - How to call me maybe :
 -------------------------------------
 Step 1 - hey i just met you
 Step 2 - and this is crazy
+Step 3 - yo this is my number
 Step 3 - here's my contact number
 step 4 - so call me maybe

@@ -13,6 +13,8 @@ namespace TestProject
             Console.WriteLine("Commit new branch devGeo - Georges ");
             Console.WriteLine("my new change - Georges ");
 
+            Console.WriteLine("Test changes pull - Joseph ");
+
         }
     }
 }
